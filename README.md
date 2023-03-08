@@ -2,13 +2,15 @@
 <h3 align="center">A web developer</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-- 🌱 I’m currently learning **Symfony , Spring **
+- 🌱 I’m currently learning **Symfony , Spring , Laravel , Vuejs **
 
-- 👯 I’m looking to collaborate on **Backend Development/Php**
+- 👯 I’m looking to collaborate on **Backend Development/Php (Laravel or symfony )**
 
-- 💬 Ask me about **Web Development with Php , Programming with Java**
+- 💬 Ask me about **Web Development with Php(Laravel , symfony and Vuejs) **
 
-- 📫 How to reach me **Raheeb772652540@gmail.com**
+- 📫 How to reach me:
+-  **Raheeb772652540@gmail.com**
+-  **+79276794677**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
