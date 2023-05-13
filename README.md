@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Symfony , Spring , Laravel , Vuejs **
 
-- 👯 I’m looking to collaborate on **Backend Development/Php (Laravel or symfony )**
-
 - 💬 Ask me about **Web Development with Php(Laravel , symfony and Vuejs) **
 
 - 📫 How to reach me:
