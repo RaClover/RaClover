@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Raheeb</h1>
-<h3 align="center">A Passionate Full-Stack Developer, Student, and Freelancer</h3>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<h2 align="center">A Full-Stack Developer, Student, and Freelancer</h2>
 
 <div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
 
   <!-- Left section: About me -->
   <div style="width: 100%; padding: 10px;">
-    <h3>🛠️ **About Me**</h3>
+    <h2>🛠️ About Me</h2>
     <ul>
       <li>🌱 <strong>Learning and Growing</strong>: Currently diving into <strong>Dart</strong>, <strong>Flutter</strong>, <strong>Go</strong>, and exploring the exciting world of <strong>Blockchain</strong>.</li>
       <li>🤖 <strong>Tech Explorer</strong>: Experienced with <strong>Robotics (ROS)</strong>, <strong>Machine Learning</strong>, and <strong>Data Analytics</strong>.</li>
@@ -18,11 +19,6 @@
         </ul>
       </li>
     </ul>
-  </div>
-
-  <!-- Right section: Fun gif -->
-  <div style="width: 100%; padding: 10px;">
-    <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="coding gif" width="400"/>
   </div>
 
 </div>
@@ -72,15 +68,13 @@
 ---
 
 ### 🏆 **GitHub Highlights**
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=RaClover&show_icons=true&theme=radical" alt="Raheeb's GitHub Stats" />
-</p>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaClover&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaClover&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; width: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=RaClover&show_icons=true&theme=radical" alt="Raheeb's GitHub Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaClover&theme=radical" alt="GitHub Streak" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaClover&layout=compact&theme=radical" alt="Top Languages" />
+    </div>
+</div>
 
 ---
 
@@ -91,7 +85,16 @@
 ---
 
 ### 🌟 **Fun Extras**
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
+
+<div align="left">
+    <blockquote>
+        “Programming is like writing a book... except if you miss out a single comma on page 126 the whole thing makes no sense.” 
+    </blockquote>
+</div>
+<div align="right">
+    <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Coding Fun" width="300" />
+</div>
+
 
 ---
 
