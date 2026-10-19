@@ -14,7 +14,9 @@
       <li>📫 <strong>Contact Me</strong>:
         <ul>
           <li>Email: <a href="mailto:raheeb772652540@gmail.com">raheeb772652540@gmail.com</a></li>
-          <li>Phone: +79934194677</li>
+          <li>Phone: +967775570716</li>
+          <li>Whatsapp: +79934194677</li>
+          <li>Whatsapp: +967775570716</li>
           <li>Telegram: <a href="https://t.me/Raheebfn12">@Raheebfn12</a></li>
         </ul>
       </li>
