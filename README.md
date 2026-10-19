@@ -8,7 +8,7 @@
   <div style="width: 100%; padding: 10px;">
     <h2>🛠️ About Me</h2>
     <ul>
-      <li>🌱 <strong>Learning and Growing</strong>: Currently diving into <strong>Dart</strong>, <strong>Flutter</strong>, <strong>Go</strong>, and exploring the exciting world of <strong>Blockchain</strong>.</li>
+      <li>🌱 <strong>Learning and Growing</strong>: Currently diving into <strong>Dart</strong>, <strong>Flutter</strong>, <strong>Go</strong>, and exploring the exciting world of <strong>AI</strong>.</li>
       <li>🤖 <strong>Tech Explorer</strong>: Experienced with <strong>Robotics (ROS)</strong>, <strong>Machine Learning</strong>, and <strong>Data Analytics</strong>.</li>
       <li>💬 <strong>Ask Me About</strong>: Full-Stack Development, PHP (Laravel & Symfony), Frontend Frameworks (Vue.js, React.js, React Native), and <strong>AI/ML technologies</strong>.</li>
       <li>📫 <strong>Contact Me</strong>:
